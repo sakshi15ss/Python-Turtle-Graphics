@@ -1,1 +1,1 @@
-# Python-Turtle-Graphics
+# Python-Turtle-Graphics Patterns
